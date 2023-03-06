@@ -1,1 +1,1 @@
-This is my first project using my personal computer
+This is my first project using my own computer instead of virtual machine
